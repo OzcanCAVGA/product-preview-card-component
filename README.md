@@ -30,13 +30,13 @@ Users should be able to:
 ![desktop](./screenshot/desktop.png)
 
 **Mobile Version**
-![mobile](./screenshot/desktop.png)
+![mobile](./screenshot/mobile.png)
 
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://product-preview-card-component-jet-mu.vercel.app/)
 
 ## My process
 
