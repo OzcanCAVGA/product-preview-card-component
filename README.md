@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-jet-mu.vercel.app/)
+- Live Site URL: [Product Preview Card](https://product-preview-card-component-jet-mu.vercel.app/)
 
 ## My process
 
